@@ -28,9 +28,10 @@ for (int i = 0; i < n; i++)
 
 }
 int main(){
-string s;                         
+string s;  
+int n  ; 
+cin>>n ; 
 cin>>s ;                       // input in string format
-int n = s.length() ; 
 int ans  = INT_MAX ;           // declaring ans with max possible value as we want to find min
 for (int i = 0; i <=2; i++)
 {
