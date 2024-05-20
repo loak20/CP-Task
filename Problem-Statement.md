@@ -7,4 +7,3 @@ Number **N** ranging from 2 <= **N** <= 10^6 and the sequence of length **N** .
 
 # Output 
 Output a single integer which is the minimum number of digits to be removed such that an alternating sequence is obtained . 
-\end{document}
