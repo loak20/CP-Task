@@ -9,7 +9,7 @@ int main(int argc, char* argv[])
 {
     registerGen(argc, argv, 1);
     
-    // Generate a random length between 2 and 10000
+    // Generate a random length between 2 and 100000
     int length = rnd.next(2,100001);
     println(length);
 
